@@ -1,0 +1,15 @@
+.background-color {
+  background-color: #81dae3;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.mouse-over {
+  opacity: 0.8;
+}
+
+.log-out {
+  cursor: pointer;
+}
