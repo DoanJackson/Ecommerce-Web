@@ -1,1 +1,1 @@
-Project Website E-Commerce using Reactjs (Bootstrap, Material UI), ExpressJs, PostgreSQL, Firebase 
+Website E-commerce, using reactjs with Framework Material UI (FE), expressjs, jwt (BE), postgreSql (DB) 
