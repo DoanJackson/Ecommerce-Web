@@ -12,7 +12,7 @@ function BoxImage(props) {
         borderRadius: "7px",
       }}
     >
-      <Box
+      <Box 
         sx={{
           flexGrow: 1,
           display: "flex",
